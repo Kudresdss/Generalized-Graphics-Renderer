@@ -1,2 +1,2 @@
-# Generalized-Vulkan-Renderer
-A Generalized Vulkan Renderer engine for various graphical visualizations
+# Generalized-Graphics-Renderer
+A Generalized Graphics Renderer engine for various graphical visualizations
